@@ -1,5 +1,7 @@
 # Classifying Core Images from the Chixulub Impact Crater
 
+[nice image of the core]
+
 This repo contains notebooks that implement the hypercolumn 'Deep Feature'
 core image classification scheme presented in my [SciPy 2020 talk]().
 
@@ -9,8 +11,10 @@ core image classification scheme presented in my [SciPy 2020 talk]().
 - training data, ilastik
 - papers and references
 
-This example uses core line scan image dataset made available by
+This example uses core line scan image dataset made available by:
+
 IODP Expedition 364 Scientists (2017): Line scan images of IODP Hole 364-M0077A. PANGAEA, https://doi.org/10.1594/PANGAEA.881718
+
 which is licensed CC-BY 3.0.
 
 ### References
